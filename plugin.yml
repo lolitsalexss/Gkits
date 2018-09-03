@@ -1,7 +1,7 @@
 name: Gkits
 main: Gkits\Main
 version: 1.0
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+api: [3.0.0, 3.0.0-ALPHA12, 4.0.0] 
 author: MangoTheDev
 softdepend: ["PiggyCustomEnchants"]
 description: Add Gkits to your server
